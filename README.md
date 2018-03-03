@@ -4,6 +4,7 @@
 2. Create, Read, Update, Delete using Express
 
 API Guide
+
 -- Authentication --
 1. Get token : POST on https://fierce-waters-66272.herokuapp.com/api/auth with body 
 {
