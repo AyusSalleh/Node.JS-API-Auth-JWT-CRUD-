@@ -29,6 +29,7 @@ token get from API /api/auth
 3. Read by Id : GET on https://fierce-waters-66272.herokuapp.com/api/bears/:bear_id
 
 bear_id get from API /api/bears
+
 e.g : https://fierce-waters-66272.herokuapp.com/api/bears/5a9a7a53084b0700147451fc
 
 4. Update by Id : PUT on https://fierce-waters-66272.herokuapp.com/api/bears/:bear_id with body
@@ -37,10 +38,12 @@ e.g : https://fierce-waters-66272.herokuapp.com/api/bears/5a9a7a53084b0700147451
 	"bear_name": "Koala"
 }
 bear_id get from API /api/bears
+
 e.g : https://fierce-waters-66272.herokuapp.com/api/bears/5a9a7a53084b0700147451fc
 
 5. Delete by Id : DELETE on https://fierce-waters-66272.herokuapp.com/api/bears/:bear_id
 
 bear_id get from API /api/bears
+
 e.g : https://fierce-waters-66272.herokuapp.com/api/bears/5a9a7a53084b0700147451fc
 
