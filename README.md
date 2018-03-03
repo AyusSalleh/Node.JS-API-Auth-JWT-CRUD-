@@ -12,9 +12,14 @@ API Guide
 	"username": "ayus"
 }
 
+
+
 2. Verification : GET on https://fierce-waters-66272.herokuapp.com/api/auth/verify with header
 
 token get from API /api/auth
+
+
+
 
 -- CRUD -- 
 * Must have token from API Auth inside header *
@@ -24,13 +29,19 @@ token get from API /api/auth
 	"bear_name": "Panda"
 }
 
+
+
 2. Read All : GET on https://fierce-waters-66272.herokuapp.com/api/bears
+
+
 
 3. Read by Id : GET on https://fierce-waters-66272.herokuapp.com/api/bears/:bear_id
 
 bear_id get from API /api/bears
 
 e.g : https://fierce-waters-66272.herokuapp.com/api/bears/5a9a7a53084b0700147451fc
+
+
 
 4. Update by Id : PUT on https://fierce-waters-66272.herokuapp.com/api/bears/:bear_id with body
 
@@ -40,6 +51,8 @@ e.g : https://fierce-waters-66272.herokuapp.com/api/bears/5a9a7a53084b0700147451
 bear_id get from API /api/bears
 
 e.g : https://fierce-waters-66272.herokuapp.com/api/bears/5a9a7a53084b0700147451fc
+
+
 
 5. Delete by Id : DELETE on https://fierce-waters-66272.herokuapp.com/api/bears/:bear_id
 
