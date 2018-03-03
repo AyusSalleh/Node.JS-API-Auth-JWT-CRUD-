@@ -1,7 +1,9 @@
 # Node.JS API Basic 101
 
 1. Authentication using JsonWebToken (JWT)
-2. Create, Read, Update, Delete using Express
+2. Create, Read, Update, Delete using Express, MongoDB
+3. Deploy API to https://heroku.com (Free)
+4. Deploy MongoDB to https://mlab.com (Free)
 
 API Guide
 
