@@ -20,7 +20,7 @@ router.route('/')
         var message = { 
             app_id: "6885d09e-19c2-484d-bde6-77d876ba5ab5",
             contents: {"en": "English Message"},
-            include_player_ids: [request.body.playerId] // ["846b4588-5a39-4773-bfcb-337cc6a5f4bbb"]
+            include_player_ids: [request.body.playerId] // ["846b4588-5a39-4773-bfcb-337cc6a5f4bb"]
         };
         
         var headers = {
